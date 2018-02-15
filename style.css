@@ -8,6 +8,10 @@ body{
   background-color: pink;
 } 
 
+.img{
+     align: right, center;
+}
+
 h2{
      color: white;
      

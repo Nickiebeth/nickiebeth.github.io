@@ -9,7 +9,8 @@ body{
 } 
 
 img{
-     width:150px;
+     width:180px;
+     postion: relative, right;
 }
 
 h2{

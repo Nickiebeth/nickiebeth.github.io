@@ -10,7 +10,7 @@ body{
 
 img{
      width:400px;
-     postion: right;
+     float: right;
 }
 
 h2{

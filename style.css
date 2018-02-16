@@ -16,6 +16,7 @@ img{
 h2{
      color: white;
      text-decoration: underline;
+     font-size:40px;
      
 }
 
@@ -32,6 +33,7 @@ h3{
 h4{
      color: white;
      text-decoration: underline;
+     font-size: 40px;
 }
 
 ol{

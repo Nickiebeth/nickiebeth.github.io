@@ -9,7 +9,9 @@ Your browser does not support the HTML5 canvas tag.</canvas>
 var c = document.getElementById("myCanvas");
 var ctx = c.getContext("2d");
 ctx.font = "30px Arial";
-ctx.strokeText("Chi Omega",20,50);
+ctx.fillStyle = "red";
+ctx.textAlign = "center";
+ctx.fillText("Chi Omega", c.width/2, c.height/2); 
 </script>
 
 </body>
